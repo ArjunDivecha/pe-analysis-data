@@ -14,4 +14,6 @@ npm start
 Committ changes
 npm run build
 
+vercel
+
 vercel --prod
